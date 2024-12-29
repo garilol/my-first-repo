@@ -1,3 +1,4 @@
+add-git-commands-section
 # my-first-repo
 ## Основные команды Git
 
@@ -7,3 +8,7 @@
 - `git add [file]` — добавление файла для следующего коммита.
 - `git commit -m "message"` — создание коммита с сообщением.
 - `git push` — отправка изменений на удаленный репозиторий.
+
+# My First Repository
+Это мой тестовый репозиторий, где я учусь работать с Git и GitHub.
+main
