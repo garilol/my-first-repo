@@ -12,3 +12,5 @@ add-git-commands-section
 # My First Repository
 Это мой тестовый репозиторий, где я учусь работать с Git и GitHub.
 main
+
+[![CI](https://github.com/garilol/my-first-repo/actions/workflows/main.yml/badge.svg)](https://github.com/garilol/my-first-repo/actions/workflows/main.yml)
