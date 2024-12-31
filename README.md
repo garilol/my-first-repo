@@ -1,3 +1,11 @@
+[![CI](https://github.com/garilol/my-first-repo/actions/workflows/main.yml/badge.svg)](https://github.com/garilol/my-first-repo/actions/workflows/main.yml)
+## Как начать работу
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/<твое_имя>/my-first-repo.git
+   cd my-first-repo
+
 add-git-commands-section
 # my-first-repo
 ## Основные команды Git
