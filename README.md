@@ -32,3 +32,6 @@ main
 Это мой тестовый репозиторий, где я учусь работать с Git и GitHub.
 main
 74943d8 (Resolved merge conflicts in README.md and notes.txt)
+## Contributors
+- [Your Name](https://github.com/YourGitHubUsername)
+
