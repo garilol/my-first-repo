@@ -1,37 +1,25 @@
-HEAD
+# My First Repository
+
 [![CI](https://github.com/garilol/my-first-repo/actions/workflows/main.yml/badge.svg)](https://github.com/garilol/my-first-repo/actions/workflows/main.yml)
-## Как начать работу
 
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/<твое_имя>/my-first-repo.git
-   cd my-first-repo
-
-add-git-commands-section
-
-HEAD
-74943d8 (Resolved merge conflicts in README.md and notes.txt)
-# my-first-repo
-## Основные команды Git
-
+Это мой тестовый репозиторий
+Основные команды Git
 Вот несколько полезных команд Git:
-- `git clone [URL]` — клонирование удаленного репозитория.
-- `git status` — проверка состояния репозитория.
-- `git add [file]` — добавление файла для следующего коммита.
-- `git commit -m "message"` — создание коммита с сообщением.
-- `git push` — отправка изменений на удаленный репозиторий.
-HEAD
 
-# My First Repository
-Это мой тестовый репозиторий, где я учусь работать с Git и GitHub.
-main
+git clone [URL] — клонирование удаленного репозитория.
+git status — проверка состояния репозитория.
+git add [file] — добавление файла для следующего коммита.
+git commit -m "message" — создание коммита с сообщением.
+git push — отправка изменений на удаленный репозиторий.
+Contributors
+Mykyta Mykyta
 
-[![CI](https://github.com/garilol/my-first-repo/actions/workflows/main.yml/badge.svg)](https://github.com/garilol/my-first-repo/actions/workflows/main.yml)
+---
 
-# My First Repository
-Это мой тестовый репозиторий, где я учусь работать с Git и GitHub.
-main
-74943d8 (Resolved merge conflicts in README.md and notes.txt)
-## Contributors
-- [Your Name](https://github.com/YourGitHubUsername)
-
+### Как внести изменения:
+1. Замените содержимое файла `README.md` на приведенное выше.
+2. Закоммитьте изменения:
+   ```bash
+   git add README.md
+   git commit -m "Fix README structure"
+   git push origin main
