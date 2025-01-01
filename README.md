@@ -1,6 +1,6 @@
 # My First Repository
 
-[![CI](https://github.com/garilol/my-first-repo/actions/workflows/main.yml/badge.svg)](https://github.com/garilol/my-first-repo/actions/workflows/main.yml)
+[![CI](https://github.com/garilol/my-first-repo/actions/workflows/main.yml/badge.svg)](https://github.com/garilol/my-first-repo/actions/workflows/main.yml) 
 
 Это мой тестовый репозиторий
 
