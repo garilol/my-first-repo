@@ -16,3 +16,8 @@ Mykyta Mykyta
    git add README.md
    git commit -m "Fix README structure"
    git push origin main
+   
+## Полезные ссылки
+
+- [Официальная документация Git](https://git-scm.com/doc)
+- [Официальная документация GitHub](https://docs.github.com)
