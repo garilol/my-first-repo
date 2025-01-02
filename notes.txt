@@ -1,6 +1,16 @@
 Это мои первые шаги с GitHub!
 
+HEAD
+add-git-commands-section
+
+HEAD
+74943d8 (Resolved merge conflicts in README.md and notes.txt)
+Это обновление добавляет больше деталей о процессе работы с ветками и коммитами.
+
 
 Это обновленный файл с новыми данными!
 
 Сегодня я научился работать с ветками в GitHub!
+main
+
+Сегодня добавлены разделы Pull Requests и Issues.
