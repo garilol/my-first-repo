@@ -13,12 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-    - name: Run a sample command
-<<<<<<< HEAD
-      run: echo "Hello, GitHub Actions!"
-=======
-     run: echo "Hello, GitHub Actions!xx
-
->>>>>>> 74943d8 (Resolved merge conflicts in README.md and notes.txt)
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Run a sample command
+        run: echo "Hello, GitHub Actions!"
